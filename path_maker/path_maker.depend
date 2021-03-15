@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1593852441 source:c:\users\gazoz\onedrive\masaüstü\plbüt\pl_büt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<stdbool.h>
+	<dirent.h>
+	<errno.h>
+	<limits.h>
+	<unistd.h>
+	<conio.h>
+	<sys/types.h>
+	<sys/stat.h>
+
+1593974493 source:c:\users\gazoz\onedrive\masaüstü\d\yeni klasör-1\pl_büt\main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<strings.h>
+	<stdbool.h>
+	<dirent.h>
+	<errno.h>
+	<limits.h>
+	<unistd.h>
+	<conio.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<ftw.h>
+	<fcntl.h>
+
+1593975737 source:c:\users\gazoz\onedrive\masaüstü\d\pl_but_proje\pl_büt\main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<strings.h>
+	<stdbool.h>
+	<dirent.h>
+	<errno.h>
+	<limits.h>
+	<unistd.h>
+	<conio.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<ftw.h>
+	<fcntl.h>
+

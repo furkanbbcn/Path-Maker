@@ -1,0 +1,9 @@
+[Here is my
+ comment]
+if [Here is my comment] <* /test/furkan> [Here is my
+ comment]
+{ 
+  go [Here is my comment] <*/test>; make <furkansamet/b/maketest>;
+  delete <furkansamet/d>;
+  if <yerinde> go <yerinde/say>;
+}
